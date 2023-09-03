@@ -1,0 +1,2 @@
+# DB
+python + C++ QtCreator
